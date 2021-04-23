@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/alipay-study.iml" filepath="$PROJECT_DIR$/.idea/alipay-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/alipay-test/alipay-test.iml" filepath="$PROJECT_DIR$/alipay-test/alipay-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxpay-study/wxpay-study.iml" filepath="$PROJECT_DIR$/wxpay-study/wxpay-study.iml" />
     </modules>
   </component>
 </project>
